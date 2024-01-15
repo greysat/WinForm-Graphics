@@ -1,0 +1,10 @@
+C:\Users\Hinds-pc\Desktop\MesProjets\GraphicsProject3\GraphicsProject3\bin\Debug\GraphicsProject3.exe.config
+C:\Users\Hinds-pc\Desktop\MesProjets\GraphicsProject3\GraphicsProject3\bin\Debug\GraphicsProject3.exe
+C:\Users\Hinds-pc\Desktop\MesProjets\GraphicsProject3\GraphicsProject3\bin\Debug\GraphicsProject3.pdb
+C:\Users\Hinds-pc\Desktop\MesProjets\GraphicsProject3\GraphicsProject3\obj\Debug\GraphicsProject3.csproj.AssemblyReference.cache
+C:\Users\Hinds-pc\Desktop\MesProjets\GraphicsProject3\GraphicsProject3\obj\Debug\Form1.resources
+C:\Users\Hinds-pc\Desktop\MesProjets\GraphicsProject3\GraphicsProject3\obj\Debug\GraphicsProject3.Properties.Resources.resources
+C:\Users\Hinds-pc\Desktop\MesProjets\GraphicsProject3\GraphicsProject3\obj\Debug\GraphicsProject3.csproj.GenerateResource.cache
+C:\Users\Hinds-pc\Desktop\MesProjets\GraphicsProject3\GraphicsProject3\obj\Debug\GraphicsProject3.csproj.CoreCompileInputs.cache
+C:\Users\Hinds-pc\Desktop\MesProjets\GraphicsProject3\GraphicsProject3\obj\Debug\GraphicsProject3.exe
+C:\Users\Hinds-pc\Desktop\MesProjets\GraphicsProject3\GraphicsProject3\obj\Debug\GraphicsProject3.pdb
